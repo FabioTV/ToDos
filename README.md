@@ -1,5 +1,5 @@
 # ToDos
-A simple API that will enable you to craate a list of todos<br>
+A simple API that will enable you to create a list of todos<br>
 <br>
 ## Requiriments<br>
 &ensp;[x] Shoud be able to create a new user<br>
